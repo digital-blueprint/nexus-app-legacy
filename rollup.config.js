@@ -111,7 +111,7 @@ function getOrigin(url) {
 config.CSP = `default-src 'self' 'unsafe-eval' 'unsafe-inline' \
     ${getOrigin(config.matomoUrl)} ${getOrigin(config.keyCloakBaseURL)} ${getOrigin(
     config.entryPointURL
-)};\
+)} https://*.tugraz.at;\
     img-src * blob: data:`;
 
 export default (async () => {
