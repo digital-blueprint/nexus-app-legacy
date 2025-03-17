@@ -120,9 +120,9 @@ export default (async () => {
         input:
             appEnv != 'test'
                 ? (appEnv.length > 6 && appEnv.substring(appEnv.length - 6) == "Custom") ?
-                    ['src/' + appName + '.js', 'src/dbp-template-activity.js']
+                    ['src/' + appName + '.js']
                     :
-                    ['src/' + appName + '.js', 'src/dbp-template-activity.js']
+                    ['src/' + appName + '.js']
                 : globSync('test/**/*.js'),
         output: {
             dir: 'dist',

@@ -12,12 +12,37 @@
         "en": "This is a frontend template app. With this app you can start the frontend development for Digitial Blueprint."
     },
     "activities": [
-        {"path": "dbp-template-activity.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/checkin/dbp-check-in-request.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/checkin/dbp-check-out-request.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/checkin/dbp-guest-check-in.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/checkin/dbp-report-risk.metadata.json"},
+
         {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-qualified-signature-pdf-upload.metadata.json"},
         {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-official-signature-pdf-upload.metadata.json"},
         {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-signature-verification.metadata.json"},
+
+        {"path": "https://dbp-dev.tugraz.at/tugapps/mono/dbp-mono-processpayment.metadata.json"},
+
         {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-show-registrations.metadata.json"},
-        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-render-form.metadata.json"}
+        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-render-form.metadata.json"},
+
+        {"path": "https://dbp-dev.tugraz.at/tugapps/dispatch/dbp-create-request.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/dispatch/dbp-show-requests.metadata.json"},
+
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-shelving.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-create-loan.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-return-book.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-renew-loan.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-book-list.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-loan-list.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-order-list.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/sublibrary/dbp-sublibrary-budget.metadata.json"},
+
+        {"path": "https://dbp-dev.tugraz.at/tugapps/lunchlottery/dbp-lunchlottery-register.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/lunchlottery/dbp-lunchlottery-assign-seats.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/lunchlottery/dbp-lunchlottery-manage.metadata.json"},
+
+        {"path": "https://dbp-dev.tugraz.at/tugapps/cabinet/dbp-cabinet-search.metadata.json"}
     ],
     "attributes": []
 }
