@@ -11,6 +11,13 @@
         "de": "Das ist eine Frontend Template App. Mit dieser kann man die Frontendentwicklung für Digitial Blueprint starten.",
         "en": "This is a frontend template app. With this app you can start the frontend development for Digitial Blueprint."
     },
-    "activities": [{"path": "dbp-template-activity.metadata.json"}],
+    "activities": [
+        {"path": "dbp-template-activity.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-qualified-signature-pdf-upload.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-official-signature-pdf-upload.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-signature-verification.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-show-registrations.metadata.json"},
+        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-show-registrations.metadata.json"}
+    ],
     "attributes": []
 }
