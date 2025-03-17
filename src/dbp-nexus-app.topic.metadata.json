@@ -17,7 +17,7 @@
         {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-official-signature-pdf-upload.metadata.json"},
         {"path": "https://dbp-dev.tugraz.at/tugapps/esign/dbp-signature-verification.metadata.json"},
         {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-show-registrations.metadata.json"},
-        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-show-registrations.metadata.json"}
+        {"path": "https://dbp-dev.tugraz.at/tugapps/formalize/dbp-formalize-render-form.metadata.json"}
     ],
     "attributes": []
 }
