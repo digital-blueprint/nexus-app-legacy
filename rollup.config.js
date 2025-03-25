@@ -317,6 +317,7 @@ export default (async () => {
                       https: await generateTLSConfig(),
                       headers: {
                           'Content-Security-Policy': config.CSP,
+                          'X-Content-Type-Options': 'nosniff',
                       },
                   })
                 : false,
