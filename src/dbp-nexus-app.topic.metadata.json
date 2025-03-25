@@ -1,15 +1,15 @@
 {
     "name": {
-        "de": "Frontend Template App",
-        "en": "Frontend Template App"
+        "de": "Nexus App",
+        "en": "Nexus App"
     },
     "short_name": {
-        "de": "Frontend Template App",
-        "en": "Frontend Template App"
+        "de": "Nexus App",
+        "en": "Nexus App"
     },
     "description": {
-        "de": "Das ist eine Frontend Template App. Mit dieser kann man die Frontendentwicklung für Digitial Blueprint starten.",
-        "en": "This is a frontend template app. With this app you can start the frontend development for Digitial Blueprint."
+        "de": "Dies is eine Applikation die alle Aktivitäten von Digital Blueprint anzeigt.",
+        "en": "This is an application that displays all Digital Blueprint activities."
     },
     "activities": [
         {"path": "https://dbp-dev.tugraz.at/tugapps/checkin/dbp-check-in-request.metadata.json"},
